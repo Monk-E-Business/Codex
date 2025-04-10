@@ -1,0 +1,1 @@
+This folder contains the files required to convert a brand new Computercraft Pocket Computer into a Codex machine.
